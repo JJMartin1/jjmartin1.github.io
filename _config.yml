@@ -299,9 +299,9 @@ defaults:
       type: Projects
     values:
       layout: single
-      title: true
       author_profile: true
-      url: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
