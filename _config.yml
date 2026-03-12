@@ -294,15 +294,15 @@ defaults:
       author_profile: true
       share: true
   # _Projects
-    - scope:
-        path: ""
-        type: Projects
-      values:
-        layout: single
-        title: true
-        course_description: true
-        project_description: true
-        url: true
+  - scope:
+      path: ""
+      type: Projects
+    values:
+      layout: single
+      title: true
+      course_description: true
+      project_description: true
+      url: true
 
 # Sass/SCSS
 sass:
