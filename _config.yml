@@ -24,9 +24,9 @@ repository               : "JJMartin1/jjmartin1.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Joshua Martin"
+  pronouns         : "he/him"  
+  bio              : "Current Penn State Employee and Masters Student at PSU World Campus"
   location         : "State College, PA"
   employer         : "The Pennsylvania State University"
   uri              : # URL
@@ -85,11 +85,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: # 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: # 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: # 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
