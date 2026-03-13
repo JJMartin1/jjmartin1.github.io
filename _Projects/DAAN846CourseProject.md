@@ -1,7 +1,5 @@
-## DAAN 846 Course Project
-
-<iframe 
-src="/files/DAAN846CourseProject.pdf" 
-width="100%" 
-height="700px">
-</iframe>
+---
+title: "DAAN 846 Course Project"
+excerpt: "Short description of portfolio item number 1<br/><img src='/files/DAAN846CourseProject.pdf'>"
+collection: project
+---
