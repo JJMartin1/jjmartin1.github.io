@@ -1,4 +1,3 @@
-DAAN825Final.pdf
 ---
 title: "DAAN 825 Course Project"
 excerpt: "DAAN 825: Large-Scale Database and Warehouse"
